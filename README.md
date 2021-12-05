@@ -13,6 +13,7 @@ help to answer many questions such as:
 • any difference in profits between small-size models and luxurious hotels
 
 Python packages:
+
 • Scipy
 
 • Statsmodels
