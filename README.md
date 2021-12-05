@@ -11,3 +11,10 @@ help to answer many questions such as:
 • any difference in cheating on spouse between religous people and people with no religion
   
 • any difference in profits between small-size models and luxurious hotels
+
+Python packages:
+• Scipy
+
+• Statsmodels
+
+• pingouin
